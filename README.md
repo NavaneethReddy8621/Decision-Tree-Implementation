@@ -20,3 +20,8 @@ Once the data was cleaned and prepared, I proceeded to build a Decision Tree cla
 
 One of the key takeaways from this project was identifying the most important factors that influence wine quality. Features like alcohol content, sulphates, and volatile acidity emerged as the top contributors to predicting quality. This insight not only confirmed some domain knowledge from the wine industry but also showcased the interpretability of decision trees, which is one of their biggest advantages. Overall, this project was a great way to apply machine learning concepts in a real-world scenario, and it reinforced the importance of good data preprocessing, thoughtful feature engineering, and model tuning. It also highlighted the balance between model simplicity and performance, especially when working with interpretable models like decision trees.
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/dda06e32-ff7c-4d40-a56a-f7c9e93a072c)
+
+
