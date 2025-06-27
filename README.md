@@ -1,4 +1,4 @@
-# Decision-Tree-Implementation
+# DECISION-TREE-IMPLEMENTATION
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
